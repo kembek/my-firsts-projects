@@ -1,0 +1,33 @@
+c:\users\zapata\documents\visual studio 2010\Projects\ARK\ARK\obj\x86\Debug\ARK.Forms.BuyerForm.resources
+c:\users\zapata\documents\visual studio 2010\Projects\ARK\ARK\obj\x86\Debug\ARK.Forms.FormSetting.resources
+c:\users\zapata\documents\visual studio 2010\Projects\ARK\ARK\obj\x86\Debug\ARK.Forms.MainForm.resources
+c:\users\zapata\documents\visual studio 2010\Projects\ARK\ARK\obj\x86\Debug\ARK.Forms.ProducerForm.resources
+c:\users\zapata\documents\visual studio 2010\Projects\ARK\ARK\obj\x86\Debug\ARK.Forms.ProductForm.resources
+c:\users\zapata\documents\visual studio 2010\Projects\ARK\ARK\obj\x86\Debug\ARK.Forms.SRForm.resources
+c:\users\zapata\documents\visual studio 2010\Projects\ARK\ARK\obj\x86\Debug\ARK.Properties.Resources.resources
+c:\users\zapata\documents\visual studio 2010\Projects\ARK\ARK\obj\x86\Debug\ARK.csproj.GenerateResource.Cache
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.BuyerForm.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.FormSetting.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.MainForm.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.ProducerForm.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.ProductForm.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.SRForm.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Properties.Resources.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.csproj.GenerateResource.Cache
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\bin\Debug\ARK.exe
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\bin\Debug\ARK.pdb
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.exe
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.pdb
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\bin\Debug\LSTDB.accdb
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.addProducer.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.addProduct.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.addBuyer.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.addReturn.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.Forms.addSale.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\PrintDataGrid.PrintOptions.resources
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\bin\Debug\office.dll
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\bin\Debug\office.xml
+C:\Users\Zapata\Desktop\Дипломная работа\Программа\ARK\ARK\obj\x86\Debug\ARK.csprojResolveAssemblyReference.cache
