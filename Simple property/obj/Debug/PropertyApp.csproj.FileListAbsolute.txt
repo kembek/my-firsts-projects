@@ -1,0 +1,14 @@
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\bin\Debug\PROPERTY.accdb
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\bin\Debug\PropertyApp.exe.config
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\bin\Debug\PropertyApp.exe
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\bin\Debug\PropertyApp.pdb
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.FORMS.AddOther.resources
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.FORMS.FormF.resources
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.FORMS.LoginForm.resources
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.OtherForm.resources
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.FORMS.SettingsForms.resources
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.Properties.Resources.resources
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.csproj.GenerateResource.Cache
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.exe
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.pdb
+C:\Users\Zapata\Desktop\Прога\Дипломная\PropertyApp\obj\Debug\PropertyApp.csprojResolveAssemblyReference.cache

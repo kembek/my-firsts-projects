@@ -1,0 +1,13 @@
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe.config
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\bin\Debug\PROPERTY.accdb
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\bin\Debug\PropertyApp.pdb
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\obj\x86\Debug\PropertyApp.DeclarationAddingForm.resources
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\obj\x86\Debug\PropertyApp.FlatForm.resources
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\obj\x86\Debug\PropertyApp.HomeForm.resources
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\obj\x86\Debug\PropertyApp.LotForm.resources
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\obj\x86\Debug\PropertyApp.OtherForm.resources
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\obj\x86\Debug\PropertyApp.Properties.Resources.resources
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\obj\x86\Debug\PropertyApp.csproj.GenerateResource.Cache
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\obj\x86\Debug\PropertyApp.exe
+C:\Users\Zapata\Documents\Visual Studio 2010\Projects\PropertyApp\PropertyApp\obj\x86\Debug\PropertyApp.pdb
